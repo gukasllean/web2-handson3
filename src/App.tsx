@@ -10,16 +10,16 @@ function App() {
           <tr>
             <th>Name</th>
             <th>Nim</th>
-            <th>Address</th>
             <th>Email</th>
+            <th>Hobby</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <td>Lukas Glean</td>
             <td>2381027</td>
-            <td>Unai</td>
             <td>2381027@unai.edu</td>
+            <td>Sleep</td>
           </tr>
         </tbody>
       </table>
