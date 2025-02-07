@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
     <>
-      <p className="hello-world">Hello world</p>
       <table className="info-table" >
         <thead>
           <tr>
